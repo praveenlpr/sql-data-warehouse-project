@@ -84,5 +84,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I’m Praveen Kumar — an IT professional, problem-solver, and lifelong learner on a mission to grow, lead, and create impact wherever I go.
+Hi there! I’m Praveen Kumar Logendra Babu — an IT professional, problem-solver, and lifelong learner on a mission to grow, lead, and create impact wherever I go.
 From technology and project coordination to personal growth and smart living in Canada, I’m passionate about turning everyday challenges into opportunities. I believe in discipline, continuous improvement, and building a future my family will be proud of.
